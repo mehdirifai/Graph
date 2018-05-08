@@ -1,0 +1,11 @@
+,u.user_id,u.assoc_xd_ids,u.population,u.population_x,u.user_agent,u.transactionvalue,u.persistent_user,u.site_type,u.order_value,u.transaction_count,u.first_purchase,u.last_purchase,u.first_basket,u.first_seen,u.items_seen,u.basket_events,u.first_context,u.displays,u.first_click,u.last_click,u.clicks,u.ad_spend,u.campaigns_seen,u.campaigns_clicked
+0,00000000-00fe-0ec6-1b2d-8a8600fe0ec6,0,"[""test""]",[0],,,True,"[""aa""]",0.0,0,,,,2018-02-07 02:19:56,0,0,2,,,,,,,
+1,00000000-052d-023c-323a-c886052d023c,0,"[""test""]",[0],,,True,"[""aa""]",0.0,0,,,,2018-03-26 00:29:11,0,0,2,,,,,,,
+2,00000000-0b6f-c367-53e9-809e0b6fc367,0,"[""test""]",[0],,,True,"[""aa""]",0.0,0,,,,2018-02-11 01:34:40,0,0,2,,,,,,,
+3,00000000-0bb3-127f-79a6-75100bb3127f,0,"[""test""]",[0],,,True,"[""aa""]",0.0,0,,,,2018-03-28 01:34:37,0,0,2,,,,,,,
+4,00000000-0d0a-ffa9-1369-2d940d0affa9,0,"[""test""]",[0],,,True,"[""aa""]",0.0,0,,,,2018-04-12 08:04:10,0,0,2,,,,,,,
+5,00000000-0fa2-2f4b-76b2-92f00fa22f4b,0,"[""test""]",[0],,,True,"[""aa""]",0.0,0,,,,2018-02-07 02:15:08,0,0,2,,,,,,,
+6,00000000-1090-eb82-22f0-53d01090eb82,0,"[""control""]",[1],,,True,"[""aa""]",0.0,0,,,,2018-03-24 00:51:49,0,0,2,,,,,,,
+7,00000000-11bc-d688-b161-abe811bcd688,0,"[""test""]",[0],,,True,"[""aa""]",0.0,0,,,,2018-04-12 01:21:47,0,0,2,,,,,,,
+8,00000000-1564-1b16-d042-f2e715641b16,0,"[""test""]",[0],,,True,"[""aa""]",0.0,0,,,,2018-04-11 22:12:41,0,0,2,,,,,,,
+9,00000000-157c-d02b-b459-91e3157cd02b,0,"[""test""]",[0],,,True,"[""aa""]",0.0,0,,,,2018-03-25 23:41:53,0,0,2,,,,,,,
